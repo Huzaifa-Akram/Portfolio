@@ -354,4 +354,8 @@ body {
   .profile-pic {
     width: 50%;
   }
+
+  #skills li, #projects a, #hobbies li, #life-ambitions li, #effort-for-country li {
+    font-size: 0.7rem;
+  }
 }
