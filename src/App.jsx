@@ -81,7 +81,7 @@ function App() {
 
     <div id="skills">
         <h2>Skills</h2>
-        <ol>
+        <ol className="bullet">
             <li>C++</li>
             <li><i className="fa-brands fa-python"></i> Python</li>
             <li><i className="fa-brands fa-js"></i> JavaScript</li>

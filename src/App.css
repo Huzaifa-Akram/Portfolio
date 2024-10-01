@@ -7,7 +7,9 @@ body {
     margin: 0;
   }
   
-  
+  .bullet, ul {
+    padding-left: 20px;
+  }
   /*************************************************************************** TOP SECTION ****************************/
   .about-me {
     background: radial-gradient(circle, #878d94 30%, #3B3B3B 100%); 
@@ -16,6 +18,7 @@ body {
     padding: 20px;
     display: flex;
     justify-content: space-around;
+    border-bottom: 5px solid black;
   } 
   
   h1 {
@@ -204,6 +207,7 @@ body {
     text-decoration: underline;
   }
   
+
   
   /*************************************************************************** Hobbies ****************************/
   
@@ -336,7 +340,7 @@ body {
       width: 100%;
     }
 
-    #skills li, #projects a, #hobbies li, #life-ambitions li, #effort-for-country li {
+    #skills li, #projects a, #projects li, #hobbies li, #life-ambitions li, #effort-for-country li {
       margin: 0;
       font-size: 1rem;
     }
@@ -355,7 +359,7 @@ body {
     width: 50%;
   }
 
-  #skills li, #projects a, #hobbies li, #life-ambitions li, #effort-for-country li {
+  #skills li, #projects a, #projects li, #hobbies li, #life-ambitions li, #effort-for-country li {
     font-size: 0.7rem;
   }
 }
