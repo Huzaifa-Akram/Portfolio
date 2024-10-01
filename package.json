@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Huzaifa-Akram.github.io/Portfolio",
+  "homepage": "https://huzaifa-akram.github.io/Portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
